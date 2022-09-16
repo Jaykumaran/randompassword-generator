@@ -36,7 +36,7 @@ print(password_list)
 random_password=""
 for char in password_list:
   random_password+=char
-print(f"your password is :{random_password}")# randompassword-generator
+print(f"your password is :{random_password}")
 
 
 output sample:
