@@ -14,7 +14,7 @@ no_of_symbols=int(input(f"how many symbols would you like? to have in passwords?
 no_of_numbers=int(input(f"how many numbers would you like to have in pass? \n"))
 
 
-#hard level
+
 password_list=[]
 
 for char in range(1, no_of_capital_letters+1):
